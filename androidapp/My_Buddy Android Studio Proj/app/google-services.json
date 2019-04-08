@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840304482132",
+    "firebase_url": "https://ebuddy-ea9be.firebaseio.com",
+    "project_id": "ebuddy-ea9be",
+    "storage_bucket": "ebuddy-ea9be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840304482132:android:e82f05462c6033ad",
+        "android_client_info": {
+          "package_name": "com.example.umesh.e_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840304482132-4k1veocl44vnn3to3c90i58ah5cus7f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umesh.e_buddy",
+            "certificate_hash": "b5e06a7ff23892835680297e3ed92ba266c3980b"
+          }
+        },
+        {
+          "client_id": "840304482132-67ba9bhlth605fg0di0ileurcmi2efjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRXEetigDaf6AHOnQvkI8M3gNtRmrBbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840304482132-67ba9bhlth605fg0di0ileurcmi2efjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
